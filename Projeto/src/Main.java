@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Entrada do CPF
-        String cpfInput = "727.400.590-19";
+        String cpfInput = "727.400.590-19"; // Exemplo de um "CPF" para mostrar o funcionamento do código
 
         // Remove os pontos e o hífen, e extrai os 9 primeiros dígitos
         String baseDigits = cpfInput.replace(".", "").replace("-", "").substring(0, 9);
