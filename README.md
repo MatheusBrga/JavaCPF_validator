@@ -7,3 +7,4 @@ Remove os caracteres especiais (pontos e hífen) do CPF.
 Calcula o primeiro dígito verificador com base nos 9 primeiros números.
 Usa os 9 números base mais o primeiro dígito para calcular o segundo dígito verificador.
 Exibe o CPF original e os dois dígitos verificadores calculados.
+
